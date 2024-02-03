@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Merhaba ben Eyüphan Binici. Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği 1. sınıf öğrencisiyim.
+- 🔭 Merhaba ben Eyüphan Binici. Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
 
 - 🌱 Front-end alanında kendimi geliştirmeye çalışıyorum.
 
