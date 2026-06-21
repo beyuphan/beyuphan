@@ -88,7 +88,7 @@ Location intelligence client. Real-time tracking, route visualization, offline c
 
 **Education:**
 - Bachelor's in Computer Engineering – Ondokuz Mayıs University (2026)
-- Visual Communication History – Anadolu University (In Progress)
+- Visual Communication Design – Anadolu University (In Progress)
 
 **Certifications:**
 - SSA 401 Defense Industry Training (2026)
@@ -143,6 +143,6 @@ Looking for opportunities in:
 
 ### "Code that scales, systems that think, data that decides"
 
-**Last updated:** June 2024 | Computer Engineering Graduate
+**Last updated:** June 2026 | Computer Engineering Graduate
 
 </div>
